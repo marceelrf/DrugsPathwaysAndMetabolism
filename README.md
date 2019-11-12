@@ -9,3 +9,8 @@
 
 
 ## [ChEMBL](https://www.ebi.ac.uk/chembl/)
+
+## [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+
+
+## [ChemDB](http://cdb.ics.uci.edu/cgibin/Smi2DepictWeb.py)
